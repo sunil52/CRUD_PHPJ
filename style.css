@@ -1,0 +1,36 @@
+
+.custom-card {
+    
+    width: 50%!important;
+    margin-top: 12%;
+}
+
+.custom-card-reg {
+    
+    width: 50%!important;
+    margin-top: 2%;
+}
+
+.custom-card-upd {
+    
+    width: 50%!important;
+    margin-top: 5%;
+}
+
+.card-header {
+    text-align: center;
+    background-color: bisque; 
+}
+
+.data{
+    text-align: center;
+    color: black;
+}
+
+#trow{
+
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+
+}
